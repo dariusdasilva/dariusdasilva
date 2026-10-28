@@ -92,20 +92,8 @@ I'm especially interested in:
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dariusdasilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Darius's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdasilva&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Darius's most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariusdasilva&theme=tokyonight&hide_border=true" alt="Darius's GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dariusdasilva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="Darius's GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dariusdasilva&theme=tokyo-night&hide_border=true&area=true" alt="Darius's contribution activity graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dariusdasilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Darius's GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dariusdasilva&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Darius's most used languages" />
 </p>
 
 ---
