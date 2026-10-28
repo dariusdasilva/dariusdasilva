@@ -1,6 +1,7 @@
-# Hey, I'm Darius 👋
+# Hey, I'm Darius Da Silva
+I am a second-year CS student, I enjoy videogames, good food and . . .
 
-## I like building small ideas into real projects.
+## . . . building small ideas into real projects.
 
 I'm a developer experimenting with Python, game development, AI, and tools that make learning a little more fun.
 
@@ -26,7 +27,7 @@ Then I try to build it.
 <table>
   <tr>
     <td width="50%">
-      <h3>🧠 <a href="https://github.com/dariusdasilva/factcheckAI_AI-SLOP_HACKATHON_PROJECT">FactCheckAI</a></h3>
+      <h3> <a href="https://github.com/dariusdasilva/factcheckAI_AI-SLOP_HACKATHON_PROJECT">FactCheckAI</a></h3>
       <p>An AI-powered fact-checking assistant that gathers evidence, evaluates claims, and returns transparent verdicts with confidence ratings.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -40,12 +41,13 @@ Then I try to build it.
       <p>
         <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot" />
         <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="GDScript" />
+        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" alt="In progress" />  
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🗂️ <a href="https://github.com/dariusdasilva/questiontester">QuestionTester</a></h3>
+      <h3> <a href="https://github.com/dariusdasilva/questiontester">QuestionTester</a></h3>
       <p>A small flashcard tool for studying and experimenting with simple, practical learning software.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
